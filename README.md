@@ -14,6 +14,7 @@ You get one site per GitHub account and organization, and unlimited project site
 Head over to GitHub and create a new public repository named username.github.io, where username is your username (for example qaroruz) on GitHub.
 
 If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
+
 ![user-repo](./images/user-repo@2x.png)
 
 
